@@ -6,7 +6,7 @@ int main () {
    int intVar = 10;
 
    /* while loop execution */
-   while( a < 20 ) {
+   while( intVar < 20 ) {
       printf("value of intVar: %d\n", intVar);
       intVar++;
    }
